@@ -10,7 +10,13 @@
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/cyb3rdr4g0n17/cyb3rdr4g0n17?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 </p>
 
-Working on some Python Projects, will love to help soceity who needs it.
+Welcome to my Github page!
+
+I'm a passionate developer who loves building software that solves real-world problems. Here you will find a collection of my personal and professional projects, as well as some contributions to open source projects.
+
+My expertise lies in various programming languages and frameworks such as Python, Java, JavaScript, React, and Node.js. I believe in using the right tool for the right job and constantly learning new technologies to stay up-to-date with the latest trends in the industry.
+
+I'm always open to collaborating with other developers and contributing to new projects. Feel free to explore my repositories and get in touch if you have any questions or ideas you'd like to discuss. Thank you for stopping by!
  
 - 👀 I’m interested in Web Development and Python.
 - 🌱 I’m currently learning from the Internet
