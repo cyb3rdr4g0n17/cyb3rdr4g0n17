@@ -31,5 +31,5 @@ I'm always open to collaborating with other developers and contributing to new p
 ### Let's Connect :coffee:
 <p align="center">
 	<a href="https://github.com/cyb3rdr4g0n17"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://twitter.com/cyb3rdr4g0n17"><img src="https://img.icons8.com/?size=1&id=phOKFKYpe00C&format=png&color=000000" alt="Twitter"/></a>
+	<a href="https://twitter.com/cyb3rdr4g0n17"><img src="https://img.icons8.com/?size=10&id=phOKFKYpe00C&format=png&color=000000" alt="Twitter"/></a>
 </p>
