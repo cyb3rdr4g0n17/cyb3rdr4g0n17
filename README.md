@@ -25,7 +25,7 @@ I'm always open to collaborating with other developers and contributing to new p
  ### ⭐ GitHub Stats
 
  <p> 
-    <img src="[https://github-readme-stats.vercel.app/api?username=cyb3rdr4g0n17&count_private=true&show_icons=true&theme=default&line](https://avatars.githubusercontent.com/u/48344737?s=400&u=d35d714d600f168c3c9d8aaba64b700874c8c7a6&v=4)" alt="Rahul" width="420"/> 
+    <img src="https://avatars.githubusercontent.com/u/48344737?s=400&u=d35d714d600f168c3c9d8aaba64b700874c8c7a6&v=4" alt="Rahul" width="420"/> 
  </p>
 
 ### Let's Connect :coffee:
